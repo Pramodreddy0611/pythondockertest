@@ -13,5 +13,5 @@ COPY Calculator.py .
 # RUN pip install -r requirements.txt
 
 # Command to run your Python program
-CMD ["python", "Calculator"]
+CMD ["python", "Calculator.py"]
 
